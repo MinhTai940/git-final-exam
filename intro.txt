@@ -5,6 +5,13 @@ Giới thiệu
 - Tính cách: Tỉ mỉ, kỷ luật, ham học hỏi.
 - Mục tiêu ngắn hạn: Nắm chắc Git, Docker, CI/CD.
 
+Kế hoạch học tập
+- Mỗi ngày 1–2 giờ luyện Git (branch/merge/reset/revert/stash).
+- Mỗi tuần đọc 1 bài blog về DevOps.
+- Cuối tuần làm mini-project áp dụng Git + CI.
+- Ghi chú lại lỗi hay gặp và cách khắc phục.
+- Tham gia group thảo luận để hỏi/đáp.
+
 Sở thích
 1 Đọc sách kỹ thuật
 2 Chơi cờ vua
