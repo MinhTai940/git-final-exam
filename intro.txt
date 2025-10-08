@@ -1,0 +1,16 @@
+Giới thiệu
+- Tôi là Hồ Vủ Minh Tài, sinh viên năm 4.
+- Ngành học: CNTT.
+- Định hướng: Backend/DevOps.
+- Tính cách: Tỉ mỉ, kỷ luật, ham học hỏi.
+- Mục tiêu ngắn hạn: Nắm chắc Git, Docker, CI/CD.
+
+Sở thích
+1 Đọc sách kỹ thuật
+2 Chơi cờ vua
+3 Chạy bộ
+
+Kỹ năng
+1 C/C++
+2 Git cơ bản
+3 Linux shell
