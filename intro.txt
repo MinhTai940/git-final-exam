@@ -1,4 +1,4 @@
-Giới thiệu
+Xin chào, tôi là Nguyễn Văn A
 - Tôi là Hồ Vủ Minh Tài, sinh viên năm 4.
 - Ngành học: CNTT.
 - Định hướng: Backend/DevOps.
