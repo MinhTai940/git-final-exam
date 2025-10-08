@@ -9,7 +9,12 @@ Kế hoạch học tập 1 tuần
 - Ngày 6: Reset/Revert/Restore.
 - Ngày 7: Tổng hợp + thực hành mini project.
 - Ghi chú: Mỗi ngày commit tối thiểu 1 lần.
+<<<<<<< Updated upstream
 - (Bổ sung) Ôn lại cách viết commit message chuẩn.
 - (Bổ sung) Thử nghiệm git bisect trong dự án nhỏ.
 - (Bổ sung) Tìm hiểu git hooks cơ bản.
 - (Bổ sung) Thiết lập pre-commit cho lint.
+=======
+- (Bổ sung) Tạo bảng cheat sheet Git cá nhân.
+- (Bổ sung) Viết dàn ý blog về Git reset vs revert.
+>>>>>>> Stashed changes
